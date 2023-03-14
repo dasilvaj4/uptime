@@ -3,21 +3,15 @@ owner: dasilvaj4 # Your GitHub organization or username, where this repository l
 repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: Google DNS 1
+  - name: Life.in Website
+    url: https://www.lifein.com.br
+  - name: Life.in DNS 1
     check: "tcp-ping"
-    url: 8.8.4.4
+    url: 186.233.172.1
     port: 53
-  - name: Google DNS 2
+  - name: Life.in DNS 2
     check: "tcp-ping"
-    url: 8.8.8.8
+    url: 186.233.175.1
     port: 53
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,8 +20,8 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Monitoramento**"
+  introMessage: ""
   navbar:
     - title: Status
       href: /
