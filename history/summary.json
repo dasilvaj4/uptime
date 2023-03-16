@@ -4,9 +4,9 @@
     "url": "https://www.lifein.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/www.lifein.com.br.ico",
     "slug": "life-in-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2312,
     "timeMonth": 2312,
     "timeYear": 2312,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-16": 0
+    }
   },
   {
     "name": "Life.in DNS 1",
