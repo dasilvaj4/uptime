@@ -4,19 +4,19 @@
     "url": "https://www.lifein.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/www.lifein.com.br.ico",
     "slug": "life-in-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2312,
-    "timeDay": 1774,
-    "timeWeek": 2312,
-    "timeMonth": 2312,
-    "timeYear": 2312,
+    "status": "up",
+    "uptime": "98.86%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "98.86%",
+    "time": 2298,
+    "timeDay": 2016,
+    "timeWeek": 2298,
+    "timeMonth": 2298,
+    "timeYear": 2298,
     "dailyMinutesDown": {
-      "2023-03-16": 0
+      "2023-03-16": 28
     }
   },
   {
