@@ -4,11 +4,11 @@
     "url": "https://www.lifein.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/www.lifein.com.br.ico",
     "slug": "life-in-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.77%",
     "time": 2373,
     "timeDay": 1998,
@@ -16,6 +16,7 @@
     "timeMonth": 2433,
     "timeYear": 2373,
     "dailyMinutesDown": {
+      "2023-11-18": 3,
       "2023-03-18": 80,
       "2023-03-17": 706,
       "2023-03-16": 28
@@ -26,10 +27,10 @@
     "url": "186.233.172.1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "life-in-dns-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
@@ -37,16 +38,18 @@
     "timeWeek": 186,
     "timeMonth": 167,
     "timeYear": 168,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-18": 1
+    }
   },
   {
     "name": "Life.in DNS 2",
     "url": "186.233.175.1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "life-in-dns-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,6 +58,8 @@
     "timeWeek": 192,
     "timeMonth": 169,
     "timeYear": 167,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-18": 0
+    }
   }
 ]
