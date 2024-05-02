@@ -4,7 +4,7 @@
     "url": "https://www.lifein.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/www.lifein.com.br.ico",
     "slug": "life-in-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2133,
     "timeYear": 2411,
     "dailyMinutesDown": {
+      "2024-05-02": 0,
       "2024-02-27": 31,
       "2024-01-31": 79,
       "2024-01-30": 62,
